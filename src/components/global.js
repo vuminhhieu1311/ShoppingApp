@@ -1,0 +1,15 @@
+module.exports = {
+    addItemToCart: null,
+    incrQuantity: null,
+    decrQuantity: null,
+    removeItem: null,
+    onSignIn: null,
+    goToSearch: null,
+    refreshUser: null,
+    refreshOrders: null,
+    API_KEY: "AIzaSyAOBPIUNI8mWb4OcoG0VuroJoPhCDStTt8",
+    resetCart: null,
+    refreshData: null,
+    refreshCommentList: null,
+    goToAllUsers: null,
+};
